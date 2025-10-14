@@ -116,6 +116,11 @@ nav a:hover {
   border-radius: 6px;
   font-weight: bold;
   cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Georgia', serif;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
 }
 
 .btn:hover { 
